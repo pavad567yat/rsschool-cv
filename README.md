@@ -1,2 +1,3 @@
 # rsschool-cv
-init: create new repository
+
+##https://pavad567yat.github.io/rsschool-cv/
